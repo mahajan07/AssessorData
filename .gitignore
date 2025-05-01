@@ -85,6 +85,7 @@ ipython_config.py
 scrape_output/
 scrape_output_test/
 *.csv
+*.gz
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
